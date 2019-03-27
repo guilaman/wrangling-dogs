@@ -1,2 +1,1 @@
-# wrangling-dogs
-Python: data wrangling and more with tweet data from @dog_rates
+Project done as part of a Udacity course. A .csv file with tweet data was provided; the task was to first download more data pertaining to the tweets in said table from the Twitter API and a separately provided file with additional data, then wrangle and clean all the gathered data and finally report the wrangling process and the main findings after the cleaned data was analyzed.
